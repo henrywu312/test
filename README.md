@@ -1,1 +1,1 @@
-# test sample  function() {   var i = "hoge" }
+# test sample  test
